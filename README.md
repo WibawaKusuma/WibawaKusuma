@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyudiva2004&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WibawaKusuma&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wibawakusuma&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WibawaKusuma&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 ### Portfolio Website
@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 - 💻 Built with HTML, CSS, JavaScript
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wibawakusuma)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wibawakusuma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/WibawaKusuma)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/WibawaKusuma)
 
 ---
-⭐️ From [wahyudiva2004](https://github.com/wibawakusuma)
+⭐️ From [WibawaKusuma](https://github.com/WibawaKusuma)
