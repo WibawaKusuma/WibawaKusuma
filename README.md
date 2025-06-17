@@ -21,17 +21,17 @@ You can click the Preview link to take a look at your changes.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyudiva2004&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudiva2004&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wibawakusuma&layout=compact&theme=radical)
 
 ## 🌟 Featured Projects
 ### Portfolio Website
-- 🔗 [Live Demo](https://wahyudiva.com)
+<!--- - 🔗 [Live Demo](https://wahyudiva.com) --->
 - 📝 Personal portfolio showcasing my work and skills
 - 💻 Built with HTML, CSS, JavaScript
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wahyudiva)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wahyudiva2004)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wibawakusuma)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wibawakusuma)
 
 ---
-⭐️ From [wahyudiva2004](https://github.com/wahyudiva2004)
+⭐️ From [wahyudiva2004](https://github.com/wibawakusuma)
