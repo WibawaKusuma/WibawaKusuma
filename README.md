@@ -5,33 +5,34 @@
 </p>
 <h1 align="center">Halo, saya Wibawa Kusuma! 👋</h1>
 <p align="center">
-  Seorang <b>Pengembang Web</b> yang bersemangat menciptakan pengalaman web yang indah dan fungsional.
+  Seorang <b>Pengembang Web</b> yang bersemangat dalam menciptakan pengalaman digital yang indah dan fungsional.
 </p>
 
 ---
 
 ## 👨‍💻 Tentang Saya
 
-🎓 Saya seorang <b>Pengembang Web</b> yang bersemangat dalam membangun solusi digital yang inovatif dan berorientasi pengguna. Saya percaya bahwa setiap baris kode adalah kesempatan untuk menciptakan sesuatu yang luar biasa.
-🌱 Saat ini saya sedang mendalami <b>Full Stack Development</b>, dengan fokus pada peningkatan keterampilan *back-end* dan arsitektur sistem.
-💡 Saya selalu mencari peluang untuk berkolaborasi dalam proyek-proyek menarik dan belajar hal baru dari komunitas developer.
+🎓 Saya seorang <b>Pengembang Web</b> dengan passion mendalam dalam membangun solusi digital yang inovatif dan berorientasi pengguna. Saya percaya bahwa setiap baris kode adalah kesempatan untuk menghasilkan sesuatu yang luar biasa.
+🌱 Saat ini, saya fokus mendalami <b>Full Stack Development</b>, khususnya pada peningkatan keterampilan *back-end* dan arsitektur sistem yang efisien.
+💡 Saya selalu antusias mencari peluang untuk berkolaborasi dalam proyek-proyek menarik dan memperluas wawasan melalui pertukaran ide dengan komunitas developer.
 
 ---
 
 ## 🛠️ Teknologi & Tools
 
-Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
+Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan secara aktif:
 
 ### Bahasa Pemrograman
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4C2C?style=for-the-badge&logo=codeigniter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,16 +62,23 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan:
 Berikut adalah beberapa proyek yang saya banggakan:
 
 ### 🌐 Portfolio Website
-- 📝 Sebuah portofolio pribadi yang responsif, dirancang untuk menampilkan karya dan keahlian saya secara efektif.
-- 💻 Dibangun dengan perpaduan <b>HTML5</b>, <b>CSS3</b>, dan <b>JavaScript</b> murni untuk performa optimal.
-- ✨ Fitur interaktif dan desain modern untuk pengalaman pengguna yang intuitif.
+- 📝 Sebuah portofolio pribadi yang **responsif dan modern**, dirancang untuk menampilkan karya serta keahlian saya secara efektif.
+- 💻 Dibangun dengan perpaduan **HTML5**, **CSS3**, dan **PHP**, memastikan performa yang optimal.
+- ✨ Menghadirkan fitur interaktif dan desain yang intuitif untuk pengalaman pengguna yang menyenangkan.
 
 ---
 
-### 🛍️ E-commerce Platform (Contoh)
-- 🛒 Platform e-commerce yang lengkap dengan fitur manajemen produk, keranjang belanja, dan sistem pembayaran.
-- 🛠️ Menggunakan <b>PHP</b> (Laravel) untuk *backend* yang kuat dan <b>React.js</b> untuk *frontend* yang dinamis.
-- 🚀 Dirancang untuk skalabilitas dan performa tinggi, cocok untuk bisnis online.
+### 🛍️ E-commerce Platform dengan CodeIgniter
+- 🛒 Platform e-commerce **berfitur lengkap** yang mencakup manajemen produk, keranjang belanja, dan integrasi sistem pembayaran.
+- 🛠️ Dikembangkan menggunakan **CodeIgniter** untuk *backend* yang robust dan **Bootstrap** untuk *frontend* yang cepat.
+- 🚀 Dirancang untuk skalabilitas dan performa tinggi, ideal untuk kebutuhan bisnis online.
+
+---
+
+### 📱 Aplikasi Manajemen Data dengan React Native
+- 📊 Sistem **manajemen inventaris dan data** yang efisien, cocok untuk kebutuhan internal atau personal.
+- ⚙️ Dibangun menggunakan **React Native**, menawarkan arsitektur ringan dan performa aplikasi yang responsif.
+- ✅ Menyediakan implementasi **CRUD (Create, Read, Update, Delete)** yang intuitif dan antarmuka pengguna yang *user-friendly*.
 
 ---
 
