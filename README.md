@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/WibawaKusuma">    <img src="http://googleusercontent.com/image_generation_content/0" width="50" height="50"/>
-  </a>
-</p>
+
 <h1 align="center">Hi, I'm Wibawa Kusuma! 👋</h1>
 <p align="center">
   A passionate <b>Web Developer</b> dedicated to creating beautiful and functional digital experiences.
