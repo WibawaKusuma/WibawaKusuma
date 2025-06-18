@@ -3,26 +3,26 @@
     <img src="https://media.giphy.com/media/hvruQ2kI6bUIM/giphy.gif" width="50" height="50"/>
   </a>
 </p>
-<h1 align="center">Halo, saya Wibawa Kusuma! 👋</h1>
+<h1 align="center">Hi, I'm Wibawa Kusuma! 👋</h1>
 <p align="center">
-  Seorang <b>Pengembang Web</b> yang bersemangat dalam menciptakan pengalaman digital yang indah dan fungsional.
+  A passionate <b>Web Developer</b> dedicated to creating beautiful and functional digital experiences.
 </p>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-🎓 Saya seorang <b>Pengembang Web</b> dengan passion mendalam dalam membangun solusi digital yang inovatif dan berorientasi pengguna. Saya percaya bahwa setiap baris kode adalah kesempatan untuk menghasilkan sesuatu yang luar biasa.
-🌱 Saat ini, saya fokus mendalami <b>Full Stack Development</b>, khususnya pada peningkatan keterampilan *back-end* dan arsitektur sistem yang efisien.
-💡 Saya selalu antusias mencari peluang untuk berkolaborasi dalam proyek-proyek menarik dan memperluas wawasan melalui pertukaran ide dengan komunitas developer.
+🎓 I'm a <b>Web Developer</b> with a profound passion for building innovative and user-centric digital solutions. I believe every line of code is an opportunity to craft something truly outstanding.
+🌱 Currently, my focus is on delving deeper into <b>Full Stack Development</b>, particularly enhancing my *back-end* skills and mastering efficient system architectures.
+💡 I'm always enthusiastic about seeking opportunities to collaborate on exciting projects and expanding my knowledge through idea exchange with the developer community.
 
 ---
 
-## 🛠️ Teknologi & Tools
+## 🛠️ Technologies & Tools
 
-Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan secara aktif:
+Here are some technologies and tools I actively master and utilize:
 
-### Bahasa Pemrograman
+### Programming Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -34,13 +34,13 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan secara a
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📈 Statistik GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WibawaKusuma&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="WibawaKusuma's GitHub Stats"/>
@@ -49,7 +49,7 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan secara a
 
 ---
 
-## 💻 Bahasa yang Paling Sering Digunakan
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WibawaKusuma&layout=compact&theme=vue-dark&hide_border=true" alt="WibawaKusuma's Top Languages"/>
@@ -57,34 +57,34 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan gunakan secara a
 
 ---
 
-## 🌟 Proyek Unggulan
+## 🌟 Featured Projects
 
-Berikut adalah beberapa proyek yang saya banggakan:
+Here are some projects I'm proud to showcase:
 
 ### 🌐 Portfolio Website
-- 📝 Sebuah portofolio pribadi yang **responsif dan modern**, dirancang untuk menampilkan karya serta keahlian saya secara efektif.
-- 💻 Dibangun dengan perpaduan **HTML5**, **CSS3**, dan **PHP**, memastikan performa yang optimal.
-- ✨ Menghadirkan fitur interaktif dan desain yang intuitif untuk pengalaman pengguna yang menyenangkan.
+- 📝 A **responsive and modern personal portfolio** designed to effectively showcase my work and skills.
+- 💻 Built using a blend of **HTML5**, **CSS3**, and **PHP**, ensuring optimal performance.
+- ✨ Features interactive elements and an intuitive design for a delightful user experience.
 
 ---
 
-### 🛍️ E-commerce Platform dengan CodeIgniter
-- 🛒 Platform e-commerce **berfitur lengkap** yang mencakup manajemen produk, keranjang belanja, dan integrasi sistem pembayaran.
-- 🛠️ Dikembangkan menggunakan **CodeIgniter** untuk *backend* yang robust dan **Bootstrap** untuk *frontend* yang cepat.
-- 🚀 Dirancang untuk skalabilitas dan performa tinggi, ideal untuk kebutuhan bisnis online.
+### 🛍️ E-commerce Platform with CodeIgniter
+- 🛒 A **full-featured e-commerce platform** encompassing product management, shopping cart functionality, and payment system integration.
+- 🛠️ Developed using **CodeIgniter** for a robust *backend* and **Bootstrap** for a fast *frontend*.
+- 🚀 Engineered for scalability and high performance, making it ideal for online businesses.
 
 ---
 
-### 📱 Aplikasi Manajemen Data dengan React Native
-- 📊 Sistem **manajemen inventaris dan data** yang efisien, cocok untuk kebutuhan internal atau personal.
-- ⚙️ Dibangun menggunakan **React Native**, menawarkan arsitektur ringan dan performa aplikasi yang responsif.
-- ✅ Menyediakan implementasi **CRUD (Create, Read, Update, Delete)** yang intuitif dan antarmuka pengguna yang *user-friendly*.
+### 📱 Data Management Application with React Native
+- 📊 An efficient **inventory and data management system**, perfect for internal or personal use.
+- ⚙️ Constructed with **React Native**, offering a lightweight architecture and responsive application performance.
+- ✅ Provides intuitive **CRUD (Create, Read, Update, Delete)** implementation and a *user-friendly* interface.
 
 ---
 
-## 👋 Mari Terhubung!
+## 👋 Let's Connect!
 
-Saya selalu terbuka untuk diskusi, kolaborasi, atau sekadar berbagi ide. Jangan ragu untuk menghubungi saya melalui platform berikut:
+I'm always open to discussions, collaborations, or simply exchanging ideas. Feel free to reach out to me through the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/WibawaKusuma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WibawaKusuma)
@@ -93,4 +93,4 @@ Saya selalu terbuka untuk diskusi, kolaborasi, atau sekadar berbagi ide. Jangan 
 
 ---
 
-⭐️ Dibuat dengan ❤️ oleh [WibawaKusuma](https://github.com/WibawaKusuma)
+⭐️ Crafted with ❤️ by [WibawaKusuma](https://github.com/WibawaKusuma)
